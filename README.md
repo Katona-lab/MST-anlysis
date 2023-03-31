@@ -1,4 +1,4 @@
-# MST-analysis
+# ThermoBayes
 This interactive jupyter notebook performs Bayesian progress curve analysis of microscale thermophoresis experimental data.
 Please cite this article:
 
